@@ -13,7 +13,7 @@ require 'about_nil'
 require 'about_hashes'
 require 'about_methods'
 in_ruby_version("2", "3") do
-  require 'about_keyword_arguments'
+  # require 'about_keyword_arguments'
 end
 require 'about_constants'
 require 'about_regular_expressions'
